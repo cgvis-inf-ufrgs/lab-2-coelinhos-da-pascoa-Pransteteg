@@ -6,8 +6,8 @@
 
 ## Dados do aluno
 
-- **Cartão UFRGS**: <mark>`<preencher>`</mark>
-- **Nome**: <mark>`<preencher>`</mark>
+- **Cartão UFRGS**: 00334042
+- **Nome**: Gustavo Pranstete
 
 ## Passos que eu segui para resolver o problema especificado (em formato de *"prompt"*)
 
@@ -30,20 +30,24 @@
 > - Novamente, lembre-se que você *não pode utilizar ferramentas
 >   de IA para escrever este relatório*
 
-<mark>`<preencher>`</mark>
+- Faça 17 coelhos dourados com 2 ovos azuis rodando em sua volta. Os coelhos estão espaçados entre si e andando em circulos para direita. 
+- A cada 3 coelhos um está dando cambalhota e todos estão subindo e descendo.
+- Ajuste a animação para aparecer na tela toda.
+- Afaste os coelhos da tela e afaste eles um do outro
+- Ajuste a amplitude do "salto" e não os deixe ultrapassar o chão
 
 ## Principais dificuldades encontradas durante o desenvolvimento (formato livre)
 
-<mark>`<preencher>`</mark>
+Tive dificuldade para ajustar a distancia da câmera e dos coelhos, a ferramenta de IA não tinha muita noção das proporções e quase sempre eu tinha que ajustar manualmente.
 
 ## Você acha que conseguiu resolver o problema de forma adequada?
 
-<mark>`<preencher>`</mark>
+Sim
 
 ## Se você quiser compartilhar mais alguma coisa, coloque aqui:
 
-<mark>`<preencher>`</mark>
+
 
 ## Se você possui alguma sugestão para o professor sobre esta atividade, coloque aqui:
 
-<mark>`<preencher>`</mark>
+
